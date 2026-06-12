@@ -1,0 +1,1 @@
+var e=`/chiayiAI-ui-demo/assets/robot-C6pcdXgE.svg`;export{e as t};

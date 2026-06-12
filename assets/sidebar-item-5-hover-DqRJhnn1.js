@@ -1,0 +1,1 @@
+var e=`/chiayiAI-ui-demo/assets/sidebar-item-5-hover-BARY7BL2.svg`;export{e as t};
