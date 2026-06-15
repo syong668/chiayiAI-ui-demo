@@ -1,0 +1,1 @@
+import{a as e}from"./index-C6yFD6kC.js";var t={};function n(e,t){return` 1234 新聞稿模擬 `}var r=e(t,[[`render`,n]]);export{r as default};
