@@ -1,1 +1,0 @@
-import{a as e}from"./index-C2XeLH-c.js";var t={};function n(e,t){return` 1234 新聞稿模擬 `}var r=e(t,[[`render`,n]]);export{r as default};
