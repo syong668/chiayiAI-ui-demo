@@ -4,6 +4,8 @@
 
 AI問答  https://syong668.github.io/chiayiAI-ui-demo/#/aichat
 
+新聞稿產製 https://syong668.github.io/chiayiAI-ui-demo/#/news-draft-sim
+
 報告產製  https://syong668.github.io/chiayiAI-ui-demo/#/report-generation
 
 文件管理  https://syong668.github.io/chiayiAI-ui-demo/#/document-management
